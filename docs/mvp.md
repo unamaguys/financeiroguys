@@ -2,6 +2,12 @@
 
 Uma pessoa deve conseguir criar seu acesso, cadastrar contas, registrar movimentações e conferir saldos, orçamentos, metas e recorrências em um dashboard.
 
+## Equipe
+
+Integrante confirmado: [@ErickMatias](https://github.com/ErickMatias).
+
+A divisão dos módulos ainda será definida. Os papéis I1–I5 continuam como referência de planejamento, e as issues permanecem sem atribuição pessoal.
+
 ## Divisão fullstack
 
 | Papel | Módulo | Entrega |
